@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ubucuruzi TradeFlow</string>
+    <string name="title_activity_main">Ubucuruzi TradeFlow</string>
+    <string name="package_name">rw.ubucuruzi.tradeflow</string>
+    <string name="custom_url_scheme">rw.ubucuruzi.tradeflow</string>
+    
+    <!-- USSD Strings -->
+    <string name="ussd_code">*182*7#</string>
+    <string name="ussd_running">USSD irakora...</string>
+    <string name="ussd_failed">USSD ntiyakoze. Ongera ugerageze.</string>
+    
+    <!-- Camera Strings -->
+    <string name="camera_permission">Dufite kenshi kamera kugirango ufate amafoto</string>
+    <string name="camera_error">Ikosa ryabaye mu gufungura kamera</string>
+    
+    <!-- Notifications -->
+    <string name="notification_title">Ubucuruzi TradeFlow</string>
+    <string name="notification_body">Ufite amakuru mashya</string>
+</resources>
